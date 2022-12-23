@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FanFan520-art
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning Js and Vue
-- 💞️ I’m looking to collaborate on Even you
+- 💞️ I’m looking to collaborate on Evan you
 - 📫 How to reach me ifanzs@163.com
 
 <!---
